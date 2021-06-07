@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Finan (@nfinan)
 - 👀 I’m interested in Machine Learning and AI applications to Materials Science:scientist:.
-- 🌱 I’m currently learning how to store, analyize, and share ML data using W & B. [Check me out!](https://wandb.ai/nfinan)
+- 🌱 I’m currently learning how to store, analyize, and share ML data using W & B. [Check it out!](https://wandb.ai/nfinan)
 - 💞️ I’m looking to collaborate on image processing and geometric recoonstruction of SEM/TEM micrographs.
 - 📫 How to reach me
 
