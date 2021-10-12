@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicholas Finan (@nfinan)
+- 👋 Hi, I’m Nicholas Finan (@nfinan), a graduate researcher at Duke University.
 - 👀 I’m interested in Machine Learning and AI applications to Materials Science:scientist:.
 - 🌱 I’m currently learning how to store, analyize, and share ML data using W & B. [Check it out!](https://wandb.ai/nfinan)
 - 💞️ I’m looking to collaborate on image processing and 3D reconstruction of SEM/TEM micrographs.
